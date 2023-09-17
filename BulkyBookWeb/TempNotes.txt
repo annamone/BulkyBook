@@ -1,0 +1,7 @@
+﻿სად გავჩერდი:
+12 - 009
+
+გასარკვევი ნაწილები:
+2-13 01:40დან ValidateAntiForgeryToken ეს მაქვს გასარკვევი
+
+Difference between partial view and view component is that partial views don't have backend code where view components do
